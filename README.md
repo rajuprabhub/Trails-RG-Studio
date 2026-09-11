@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="./assets/trails-rg-studio-icon.png" alt="Trails RG Studio" width="128" height="128" />
+</p>
+
 # Trails RG Studio — public downloads
 
 Proprietary beta builds of **Trails RG Studio** (a Trails RG product; formerly Trails RG EXIF Tool).
 
 - Website: https://www.trailsrg.com/apps
-- Versions / notes: https://www.trailsrg.com/apps/exif-tool/versions
-- Terms: https://www.trailsrg.com/apps/exif-tool/terms
-- Privacy: https://www.trailsrg.com/apps/exif-tool/privacy
+- Versions / notes: https://www.trailsrg.com/apps/studio/versions
+- Terms: https://www.trailsrg.com/apps/studio/terms
+- Privacy: https://www.trailsrg.com/apps/studio/privacy
 
 Source code is **not** published here. This repository hosts release binaries only.
 
@@ -13,8 +17,8 @@ Source code is **not** published here. This repository hosts release binaries on
 
 | Platform | File |
 |---|---|
-| Android (arm64) | [Download APK](./dist/trails-rg-exif-tool-1.0.0-beta.2-arm64.apk) |
-| macOS | [Download zip](./dist/trails-rg-exif-tool-1.0.0-beta.2-macos.zip) |
+| Android (arm64) | [Download APK](./dist/trails-rg-studio-1.0.0-beta.2-arm64.apk) |
+| macOS | [Download zip](./dist/trails-rg-studio-1.0.0-beta.2-macos.zip) |
 
 Checksums: [SHA256SUMS.txt](./dist/SHA256SUMS.txt)
 
