@@ -2,6 +2,10 @@
   <img src="./assets/trails-rg-studio-icon.png" alt="Trails RG Studio" width="128" height="128" />
 </p>
 
+<p align="center">
+  <img src="./assets/trails-rg-studio-splash.png" alt="Trails RG Studio splash" width="280" />
+</p>
+
 # Trails RG Studio — public downloads
 
 Proprietary beta builds of **Trails RG Studio** (a Trails RG product; formerly Trails RG EXIF Tool).
@@ -13,7 +17,7 @@ Proprietary beta builds of **Trails RG Studio** (a Trails RG product; formerly T
 
 Source code is **not** published here. This repository hosts release binaries only.
 
-## Latest (1.0.0-beta.2 build 4)
+## Latest (1.0.0-beta.2 build 5)
 
 | Platform | File |
 |---|---|
