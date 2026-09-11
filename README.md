@@ -17,7 +17,7 @@ Proprietary beta builds of **Trails RG Studio** (a Trails RG product; formerly T
 
 Source code is **not** published here. This repository hosts release binaries only.
 
-## Latest (1.0.0-beta.2 build 6)
+## Latest (1.0.0-beta.2 build 7)
 
 | Platform | File |
 |---|---|
