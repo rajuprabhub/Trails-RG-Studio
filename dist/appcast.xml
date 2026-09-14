@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Trails RG Studio</title>
+    <description>macOS updates for Trails RG Studio (Sparkle)</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0-beta.2</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/rajuprabhub/Trails-RG-Studio/releases/tag/v1.0.0-beta.2-b12</sparkle:releaseNotesLink>
+      <pubDate>Mon, 14 Sep 2026 14:21:32 +0000</pubDate>
+      <enclosure
+        url="https://github.com/rajuprabhub/Trails-RG-Studio/releases/download/v1.0.0-beta.2-b12/trails-rg-studio-1.0.0-beta.2-macos.zip"
+        sparkle:edSignature="udVRJOvrBcTjd8OqeS23YjJVfcCDY9vJRMXhqeJpfAdqoFXHpgVep2/uH+z9Nkl1oc//PUnFd5rBWuvHHxJhBg=="
+        sparkle:os="macos"
+        length="30959607"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
