@@ -6,15 +6,15 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>22</sparkle:version>
+      <sparkle:version>23</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>https://github.com/rajuprabhub/Trails-RG-Studio/blob/main/dist/README-SPARKLE.md</sparkle:releaseNotesLink>
-      <pubDate>Sat, 19 Sep 2026 06:47:15 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 09:49:04 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="F5ZhuudiBeVz2lsMk1ys1Ao+YN/DcxxbxeLjTzHSOTbX4vCFbiBgeok2bRg6+URtMYxosDpuaXyrdRHG2tMrDg=="
+        sparkle:edSignature="W1Ex6HLNN3LIw8OiMEhbEV9rD1meWnea/By0exkYXEzdd7v56Uzwmpk9JQRo6TSTZveuKKwyXfSx9p2WqRHDAQ=="
         sparkle:os="macos"
-        length="31087508"
+        length="31094233"
         type="application/octet-stream" />
     </item>
   </channel>
