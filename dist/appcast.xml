@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>28</sparkle:version>
+      <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 28</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 29</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
 ]]></description>
-      <pubDate>Sat, 19 Sep 2026 13:40:25 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 14:56:11 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="CheIGb8OSahh1dwJPzAaQj9lvDcwHPZUuc+RsHBO7AaCDhLcMiSJbZIMWtHBxSKXh53TT+46doS4r1b4JT83Dg=="
+        sparkle:edSignature="nw+HEN5pyFE3CizoVeMdc/u4NyhsG6Ty6hElSNAwWtFsvcNfD4hvH2xkUbB9RV0OfTnWbEg5gHgbiBN61myeCg=="
         sparkle:os="macos"
-        length="40183352"
+        length="40221121"
         type="application/octet-stream" />
     </item>
   </channel>
