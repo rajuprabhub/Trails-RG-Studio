@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>26</sparkle:version>
+      <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 26</p><ul><li>Collage tool with layout gallery and curved templates</li><li>Sample photo previews in every layout</li><li>Shutter temporarily hidden from navigation</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">full release notes</a></li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 28</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
 ]]></description>
-      <pubDate>Sat, 19 Sep 2026 12:01:38 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 13:40:25 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="L3W2VlrYSIpW379VXNPCPO6CKp6WAa/TWYeZieDSJEz9AFKhad1p0hg+uyZjyvgh7wOHCbSo4GFtpSHHfhStCg=="
+        sparkle:edSignature="CheIGb8OSahh1dwJPzAaQj9lvDcwHPZUuc+RsHBO7AaCDhLcMiSJbZIMWtHBxSKXh53TT+46doS4r1b4JT83Dg=="
         sparkle:os="macos"
-        length="39941533"
+        length="40183352"
         type="application/octet-stream" />
     </item>
   </channel>
