@@ -8,7 +8,16 @@
       <title>Version 1.0.0-beta.2</title>
       <sparkle:version>24</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/rajuprabhub/Trails-RG-Studio/blob/main/dist/README-SPARKLE.md</sparkle:releaseNotesLink>
+      <description><![CDATA[
+<h2>Trails RG Studio 1.0.0-beta.2</h2>
+<p>Build 24</p>
+<ul>
+  <li>Panorama frame &amp; split with Instagram-style carousel preview</li>
+  <li>Panoramic reel export (duration &amp; direction)</li>
+  <li>Fresh simulator marketing screenshots</li>
+  <li>See <a href="https://www.trailsrg.com/apps/studio/versions">full release notes</a></li>
+</ul>
+]]></description>
       <pubDate>Sat, 19 Sep 2026 09:57:45 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
