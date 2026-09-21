@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>31</sparkle:version>
+      <sparkle:version>40</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 31</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 40</p><ul><li>Faster panorama photo open</li><li>Mac EXIF-oriented JPEGs keep Step 2 mid/bottom crop</li><li>Exports keep running when minimized</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">release notes</a></li></ul>
 ]]></description>
-      <pubDate>Sat, 19 Sep 2026 15:22:10 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 12:21:10 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="JBuds2Uay7f+7dBwZ+D/ieuRGsPkJZnaGd4LBOo3N6xwo9wtKva756nW1ob1tDMoXC3GTlEiDnAQ48+RTZ+FBg=="
+        sparkle:edSignature="kxofMaGD4XPsQBLWKa8XX8v96lAJDyXMHgJ4qzm/mtsqRjG3NWSqDaL/qblIpWy22mEMhuu+jDKTkQDCCx9nDw=="
         sparkle:os="macos"
-        length="40228423"
+        length="40299675"
         type="application/octet-stream" />
     </item>
   </channel>
