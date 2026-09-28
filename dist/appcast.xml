@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>42</sparkle:version>
+      <sparkle:version>43</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 42</p><ul><li>Phone Library is simpler: one title, place tabs, and a menu</li><li>Library plays videos in the app</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">release notes</a></li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 43</p><ul><li>Videos, including MOV, show a real frame in the Library</li><li>Folders show a cover photo and their name</li><li>Grid and detail views; swipe back goes up a folder</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">release notes</a></li></ul>
 ]]></description>
-      <pubDate>Mon, 28 Sep 2026 11:08:58 +0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 11:58:02 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="yBjxj5+/dEr5T8DwIGc6ycvjXcFMVAHO5dAU83hCxBVFvoSoNPBWdMb597QCTfXfaSA004iyKo5ip9wvGBeuCA=="
+        sparkle:edSignature="vcwpyz3dJaZUDWSbmpPVqtwtRMi8JNgU6T3vBHZPzJaMKG3XPfE6ot5eD1IVc17VVamjFeDWGfOXcuMGUUXCBQ=="
         sparkle:os="macos"
-        length="57792147"
+        length="57807504"
         type="application/octet-stream" />
     </item>
   </channel>
