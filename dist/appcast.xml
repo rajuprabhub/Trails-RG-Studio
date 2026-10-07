@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>45</sparkle:version>
+      <sparkle:version>46</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 45</p><ul><li>Desktop Library shows the folder name, not the full path</li><li>Editor text and shapes clear when you open another photo</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">release notes</a></li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 46</p><ul><li>Library shows only folders that contain photos or videos</li><li>Each folder uses a cover from inside, with a count</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">release notes</a></li></ul>
 ]]></description>
-      <pubDate>Mon, 28 Sep 2026 12:23:51 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 15:28:59 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="BiIee187XbzRc17FAUw2NG/OmfF9BJpq8qG+Z1oB19I+IsPTB0rSK9+wpWsIsKnvvfObFgKOGCQIXFruFcMNAA=="
+        sparkle:edSignature="B4PYFm1brcEZt4ZZpwbc/F72JyeV3bOoso1C5VPd0ooqhG/dZql6/VKJaHgFi6QOwh2BHCcWQgUWpCE6NaItAw=="
         sparkle:os="macos"
-        length="57808892"
+        length="57812321"
         type="application/octet-stream" />
     </item>
   </channel>
