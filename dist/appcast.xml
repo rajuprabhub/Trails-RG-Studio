@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>47</sparkle:version>
+      <sparkle:version>48</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 47</p><ul><li>Favorites and albums are saved with your pictures, so they can come across on a new computer</li><li>Sort by date, name, or place</li><li>Add several photos to an album, and rename it</li><li>Pick and reject photos, and show only picks or rejects</li><li>Choose an album cover</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 48</p><ul><li>Star a photo or video while it is open</li><li>Library options are grouped: sort, show, thumbnails, then file type</li></ul>
 ]]></description>
-      <pubDate>Thu, 08 Oct 2026 16:16:08 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 17:11:26 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="dtnxGYZOeA1Pn1czDcal2AU6YS+lvM0XaG+WVsW1cM/DqYtr9kAKUvgyN1JhnlBC7qeHP9+7PDS37Zxs2fseCg=="
+        sparkle:edSignature="SxVj/HwAjPZwN/bODmzZ03/CNQ41P5BanhgpK/cSnYy2M7avXQdGdcINPkIvAhqv9UzRNJCe1aNEU4Rv2IZ5Bw=="
         sparkle:os="macos"
-        length="57884463"
+        length="57885898"
         type="application/octet-stream" />
     </item>
   </channel>
