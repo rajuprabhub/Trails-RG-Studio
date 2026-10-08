@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>48</sparkle:version>
+      <sparkle:version>49</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 48</p><ul><li>Star a photo or video while it is open</li><li>Library options are grouped: sort, show, thumbnails, then file type</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><ul><li>Open a photo in Panorama from the Library</li><li>Choose it from the folder already open</li><li>Preview shows the Instagram post and Reel before you save</li></ul>
 ]]></description>
-      <pubDate>Thu, 08 Oct 2026 17:11:26 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 17:28:15 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="SxVj/HwAjPZwN/bODmzZ03/CNQ41P5BanhgpK/cSnYy2M7avXQdGdcINPkIvAhqv9UzRNJCe1aNEU4Rv2IZ5Bw=="
+        sparkle:edSignature="x318I2g6QeMnQE1+f+szY9ughNqxfrDqodTt/zRTLJPkVEih6d0puYxr62mWYGYu83vUcphK8l3hQtSkSPRwAw=="
         sparkle:os="macos"
-        length="57885898"
+        length="57937857"
         type="application/octet-stream" />
     </item>
   </channel>
