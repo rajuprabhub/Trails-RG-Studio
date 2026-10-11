@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>56</sparkle:version>
+      <sparkle:version>57</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><ul><li>Caption and the field list stay off until you turn them on</li><li>Zoom the photo in the editor</li><li>Edits keep the sharp preview, including RAW</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 57</p><ul><li>Style, Effects, and Adjust stay in step with the photo</li><li>None clears a look, and Undo brings it back</li><li>Grain and the looks are finer</li></ul>
 ]]></description>
-      <pubDate>Sun, 11 Oct 2026 11:31:47 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 12:02:40 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="wRY66xSwEVtvfnUk+jOu/SnAg99tvwyJ4qelpe3BRolKaHlbrMd19LClUVpTZHN4cbgSuDmfU6x/lyOmroOyAQ=="
+        sparkle:edSignature="LBhdI/9eUcJQF+BrYDyn1P/JfRoVnQKpsoPpyJ06gj/3z7vsb/n0yC9oJAOl3DsG25acizGyjSJajnDrzZ8nCA=="
         sparkle:os="macos"
-        length="58172244"
+        length="58177108"
         type="application/octet-stream" />
     </item>
   </channel>
