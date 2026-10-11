@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0-beta.2 (58)</title>
-      <sparkle:version>58</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.2 (58)</sparkle:shortVersionString>
+      <title>Version 1.0.0-beta.2 (59)</title>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2 (59)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 58</p><ul><li>Style and Effects stay a preview until you tap Done</li><li>Only the last effect is kept</li><li>Auto grades the light on this device</li><li>Subject finds the main subject, or tells you when this Mac cannot run it</li><li>About and Finder now show the build number</li></ul>
+<ul><li>Style, Effects, Adjust, and Frame pick from a filmstrip and icons.</li><li>Colour edits show on the photo while you drag.</li></ul>
 ]]></description>
-      <pubDate>Sun, 11 Oct 2026 12:29:32 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 14:45:27 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="rog4s1Yhzyruc1lDoczTiVn7ghadW6lqz4ZTD65EDmKH9lmU0KdHvQDtqQQ6ayaA1DO7c7U3l99uDt5QMGLzBg=="
+        sparkle:edSignature="WoNyObpSPwcQQ7kLaNZUyhCXS9ce4W7lw/bTRmiRr7BDTVFKhsKz+BksjWTs0KTz9nQdR0xllfkMQ2WW7+gYCA=="
         sparkle:os="macos"
-        length="83119182"
+        length="83131038"
         type="application/octet-stream" />
     </item>
   </channel>
