@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0-beta.2 (60)</title>
-      <sparkle:version>60</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.2 (60)</sparkle:shortVersionString>
+      <title>Version 1.0.0-beta.2 (61)</title>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2 (61)</sparkle:shortVersionString>
       <description><![CDATA[
-<ul><li>The editor preview uses the same pixels as the saved file.</li><li>It is drawn at the size of the screen, and stays sharp when you zoom.</li></ul>
+<ul><li>Crop aspects are a filmstrip, and Enter applies the crop.</li><li>Shadows and highlights follow the on-device tone curve.</li><li>Curve, colour, and detail edits grade the photo on screen.</li><li>Each Look tile shows that full look.</li></ul>
 ]]></description>
-      <pubDate>Sun, 11 Oct 2026 15:10:36 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 15:36:05 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="5vPmeld/FTIv7OuByEln1IfS2SW/WslfuA5SiTxlJ7XdNLoMRQvl/4MH53BMRrlKSQD9m1ALUiDphdaJ9Vo7DQ=="
+        sparkle:edSignature="O5pP1fPOUh73kn68dQYf1ukmPg41EBM66Ogrs8fxETP4pf37fKwAK8wrA61SdophVLLAONv0eFMAwb0+Yur5DA=="
         sparkle:os="macos"
-        length="83132151"
+        length="83154403"
         type="application/octet-stream" />
     </item>
   </channel>
