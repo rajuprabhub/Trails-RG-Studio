@@ -6,17 +6,17 @@
     <language>en</language>
     <item>
       <title>Version 1.0.0-beta.2</title>
-      <sparkle:version>54</sparkle:version>
+      <sparkle:version>55</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.2</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><ul><li>Copy, paste, and rename in the gallery</li><li>A folder from a removed drive leaves the sidebar</li><li>A mark stays off until you choose it</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><ul><li>A connected drive shows up in the library</li><li>Thumbnails can be Huge</li><li>Gallery view: one large photo, a filmstrip, and file details</li></ul>
 ]]></description>
-      <pubDate>Sun, 11 Oct 2026 09:35:10 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 11:15:20 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="YExMayU9sPlvdgmx93VlUgMkiqjlRfSNIQ1WOMeYB+s/4DqB4RmYLvjSD6qk3sccp256komJaOetqgh3IyfaCg=="
+        sparkle:edSignature="AGMMZ/Eo0TzZF15AH7JQu6bYwhoXPCKlGTpQvtZRDiGxArkdWt3knGmhfDqaHvVayyG9kESJD1BUxb7Mu2w+CA=="
         sparkle:os="macos"
-        length="58139281"
+        length="58161169"
         type="application/octet-stream" />
     </item>
   </channel>
