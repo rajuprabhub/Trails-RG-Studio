@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0-beta.2 (59)</title>
-      <sparkle:version>59</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.2 (59)</sparkle:shortVersionString>
+      <title>Version 1.0.0-beta.2 (60)</title>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2 (60)</sparkle:shortVersionString>
       <description><![CDATA[
-<ul><li>Style, Effects, Adjust, and Frame pick from a filmstrip and icons.</li><li>Colour edits show on the photo while you drag.</li></ul>
+<ul><li>The editor preview uses the same pixels as the saved file.</li><li>It is drawn at the size of the screen, and stays sharp when you zoom.</li></ul>
 ]]></description>
-      <pubDate>Sun, 11 Oct 2026 14:45:27 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 15:10:36 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="WoNyObpSPwcQQ7kLaNZUyhCXS9ce4W7lw/bTRmiRr7BDTVFKhsKz+BksjWTs0KTz9nQdR0xllfkMQ2WW7+gYCA=="
+        sparkle:edSignature="5vPmeld/FTIv7OuByEln1IfS2SW/WslfuA5SiTxlJ7XdNLoMRQvl/4MH53BMRrlKSQD9m1ALUiDphdaJ9Vo7DQ=="
         sparkle:os="macos"
-        length="83131038"
+        length="83132151"
         type="application/octet-stream" />
     </item>
   </channel>
