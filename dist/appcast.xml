@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0-beta.2 (61)</title>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.2 (61)</sparkle:shortVersionString>
+      <title>Version 1.0.0-beta.2 (62)</title>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2 (62)</sparkle:shortVersionString>
       <description><![CDATA[
-<ul><li>Crop aspects are a filmstrip, and Enter applies the crop.</li><li>Shadows and highlights follow the on-device tone curve.</li><li>Curve, colour, and detail edits grade the photo on screen.</li><li>Each Look tile shows that full look.</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 62</p><ul><li>The open photo is the file’s full resolution, so you can judge it.</li><li>Move a photo to the Trash after you confirm. On a Mac, Command+Delete does that.</li><li>Turn a JPEG left or right without recompressing it.</li></ul>
 ]]></description>
-      <pubDate>Sun, 11 Oct 2026 15:36:05 +0000</pubDate>
+      <pubDate>Fri, 16 Oct 2026 13:06:00 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="O5pP1fPOUh73kn68dQYf1ukmPg41EBM66Ogrs8fxETP4pf37fKwAK8wrA61SdophVLLAONv0eFMAwb0+Yur5DA=="
+        sparkle:edSignature="Re3Q8OnLnZ4N0RwjGDJOCTtn9QxYH04jPX41dmOIGovE0em3Omum4MB/69qzvO+0kDR2Fws6VM4Ya/xZa5lRBw=="
         sparkle:os="macos"
-        length="83154403"
+        length="83174603"
         type="application/octet-stream" />
     </item>
   </channel>
