@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0-beta.2 (71)</title>
-      <sparkle:version>71</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.2 (71)</sparkle:shortVersionString>
+      <title>Version 1.0.0-beta.2 (72)</title>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2 (72)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 71</p><ul><li>Cull progress is a ring and a bar. Stop sits with that progress.</li><li>Show can list 1, 2, 3, 4, or 5 stars on its own.</li><li>A cull keeps the Mac awake until it finishes or you stop it. Closing the lid can still sleep.</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 72</p><ul><li>Scenes opens as a full page, with the list on one side and the frame on the other.</li><li>Show can select the filtered photos, then move, cut, delete, or archive them.</li><li>A soft frame says whether Clarity can sharpen it.</li><li>A folder inside a drive is listed once.</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
 ]]></description>
-      <pubDate>Tue, 20 Oct 2026 10:44:13 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 13:15:11 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="+S+8J+F979+xyZehYHs5iUqv5hOk+/6vdkXOR5L2V8DvJcShwhjV3QrWFXHvQZJQIgVpOVYPXmCzccu3tL0IAw=="
+        sparkle:edSignature="hL/Lb+pKzM2JHFXtiNS52FqEOffAD13dKbB6uMpTTq/95Cs4jtugz4Swv9J6Q40Ub7QN6VXJu9gbtST6iMkXDg=="
         sparkle:os="macos"
-        length="96309945"
+        length="96355627"
         type="application/octet-stream" />
     </item>
   </channel>
