@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.0-beta.2 (64)</title>
-      <sparkle:version>64</sparkle:version>
-      <sparkle:shortVersionString>1.0.0-beta.2 (64)</sparkle:shortVersionString>
+      <title>Version 1.0.0-beta.2 (65)</title>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.2 (65)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 64</p><ul><li>Frames from the same moment stay in one scene, and the sharpest comes first</li><li>A box marks the sharpest area of each photo</li><li>Find sharpest has its own button, and a folder’s Get Info shows where it is and how big it is</li></ul>
+<h2>Trails RG Studio 1.0.0-beta.2</h2><p>Build 65</p><ul><li>Each scene splits into Accept and Reject, with the frame and the sharpest patch beside it</li><li>Keep the sharpest one, two, or three frames, and split or join a scene when the group is wrong</li><li>Accept and Reject are written to a sidecar Lightroom can read</li></ul>
 ]]></description>
-      <pubDate>Tue, 20 Oct 2026 06:56:54 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 07:31:44 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.0.0-beta.2-macos.zip"
-        sparkle:edSignature="Qhh8mhnOmh+6+B4Y7d9hSa6uTQeGfI9eCDNixARBRnziMy59BIgPebE6QMfrxEMLq71ixncpaAamYI3PvOm3BQ=="
+        sparkle:edSignature="Xv+aAA96T7ifL3yTA/2H0LW6z+i2IHpA8kVnOhTn9csD9L2XBDDYBNHUXVTf/D4oDgQpwcbzum5mrjzEzUKnBg=="
         sparkle:os="macos"
-        length="96190826"
+        length="96243104"
         type="application/octet-stream" />
     </item>
   </channel>
