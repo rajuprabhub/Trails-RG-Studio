@@ -1,2 +1,2 @@
 24fc08ff878c1d2636546aeafb04c4684ad49f2e3728b91fc997b454a9ee3442  trails-rg-studio-1.0.0-beta.2-arm64.apk
-50d19bd62c8d90a6dbc33b95c6d21887802778d8febec637c4dd8cec7ac9ab03  trails-rg-studio-1.2.0-beta-macos.zip
+0addce4d2681e285a26fbf2e8f6d66844bf7e791d60f970db05015adbff0dc8b  trails-rg-studio-1.3.0-beta-macos.zip

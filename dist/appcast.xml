@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.2.0-beta (84)</title>
-      <sparkle:version>84</sparkle:version>
-      <sparkle:shortVersionString>1.2.0-beta (84)</sparkle:shortVersionString>
+      <title>Version 1.3.0-beta (85)</title>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>1.3.0-beta (85)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.2.0-beta</h2><p>Build 84</p><ul><li>The side navigation is back.</li><li>Sort and Show name the current choice and open from a menu.</li><li>Command+A selects every photo on screen.</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.3.0-beta</h2><p>Build 85</p><ul><li>The preview cache stays within 2 GB, so browsing a large drive does not fill the Mac</li><li>Find duplicates reads less of each file and finishes sooner</li><li>Cull and Find unusable read several photos at once, sized to this computer, and keep reading the next group while the current one is scored</li></ul>
 ]]></description>
-      <pubDate>Thu, 22 Oct 2026 09:11:17 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 12:27:30 +0000</pubDate>
       <enclosure
-        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.2.0-beta-macos.zip"
-        sparkle:edSignature="7gJ66XyVQUHLRA/hLsE7s7SgsoBCwmDvikVInA7djRb0sSTBA24tG1jyzeYcUvJ9mEe3mrm20e2IpU8CU4+HDg=="
+        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.3.0-beta-macos.zip"
+        sparkle:edSignature="yq81il73xk9BdEAHHH7CcbqsYbbFH0NPtH6xWBA9fCLTvGREn3wAiIevfY3eB+0eeLiyDN76WRuTNGXyPocjAA=="
         sparkle:os="macos"
-        length="96540865"
+        length="96554878"
         type="application/octet-stream" />
     </item>
   </channel>
