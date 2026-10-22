@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0-beta (82)</title>
-      <sparkle:version>82</sparkle:version>
-      <sparkle:shortVersionString>1.1.0-beta (82)</sparkle:shortVersionString>
+      <title>Version 1.1.0-beta (83)</title>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.1.0-beta (83)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.1.0-beta</h2><p>Build 82</p><ul><li>Find unusable shows those frames in the library, with a thumbnail and a reason. Look at them, then archive or trash the ones you choose.</li><li>Command-click adds a photo. Shift-click selects a range.</li><li>Archive stays in the sidebar, locked, next to Favorites.</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes.</li></ul>
+<h2>Trails RG Studio 1.1.0-beta</h2><p>Build 83</p><ul><li>Sort and Show stay on the library. The current choice is visible without opening a menu.</li><li>Find duplicates opens the extra copies in the library. Select all, or use the arrow keys, then archive or trash.</li><li>The archive folder defaults to Pictures/TrailsRG/Archive and is created when that path is missing.</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes.</li></ul>
 ]]></description>
-      <pubDate>Thu, 22 Oct 2026 08:23:05 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 08:44:21 +0000</pubDate>
       <enclosure
         url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.1.0-beta-macos.zip"
-        sparkle:edSignature="swMeHTjuFNrqsosSlLqfJA9vqzDunWjY6whp1Ndys7zRTK+Kgk+4NtYZI3tCgnojwEbf1Zjrra61/git+NkHAQ=="
+        sparkle:edSignature="QsxNPL76g6DqvihXcnxAHDenavlZ4iuS/Tg5WwXnQHuCFPjvdluyux248wCN7VUF9Y8El4uULXEkVjMEh7o7Dw=="
         sparkle:os="macos"
-        length="96525620"
+        length="96512970"
         type="application/octet-stream" />
     </item>
   </channel>
