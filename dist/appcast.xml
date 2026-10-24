@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.5.0-beta (87)</title>
-      <sparkle:version>87</sparkle:version>
-      <sparkle:shortVersionString>1.5.0-beta (87)</sparkle:shortVersionString>
+      <title>Version 1.6.0-beta (88)</title>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>1.6.0-beta (88)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.5.0-beta</h2><p>Build 87</p><ul><li>Gallery can accept or reject the large photo, compare it with another frame from the same scene, and open it in the editor, collage, or panorama.</li><li>Collage can drag a photo between cells, fill a layout from accepted photos, and set the border and the corner radius.</li><li>Panorama can step to the next photo in the folder, and turn or flip a JPEG without recompressing it.</li><li>Colour balance, split tone, a black-and-white mixer, colorize, a channel mixer, and a white-balance click.</li><li>Hold to see the photo before the grade, mark clipped tones, grow or shrink a subject mask, and drop a shadow on a caption.</li></ul>
+<h2>Trails RG Studio 1.6.0-beta</h2><p>Build 88</p><ul><li>Each photo keeps its own grade, logo, frame, crop, and caption. A new photo starts plain.</li><li>Save edit stores that recipe and applies it only when you choose it.</li><li>Hold for original and Compare show the photo before the grade, logo, frame, and caption.</li></ul>
 ]]></description>
-      <pubDate>Sat, 24 Oct 2026 05:01:36 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 05:40:24 +0000</pubDate>
       <enclosure
-        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.5.0-beta-macos.zip"
-        sparkle:edSignature="L8xv+ppqE0a7Lhrb1yy1BtRpX9+nrmS9+fuu73AApGlcPcx1hjtwxJH2C6wKPtYLm2/6H+zPFd8unb3iKHsTAA=="
+        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.6.0-beta-macos.zip"
+        sparkle:edSignature="+I6jTXUO/9S68GNmze+2mJ2VOOUr3EgM6cIwckyiOkFVmQV1U9sq0azohBdblZMo+0Wi+uYPrUHUa+pI3EHnCw=="
         sparkle:os="macos"
-        length="96686922"
+        length="96696734"
         type="application/octet-stream" />
     </item>
   </channel>
