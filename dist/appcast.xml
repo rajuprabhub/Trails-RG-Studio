@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.12.0-beta (94)</title>
-      <sparkle:version>94</sparkle:version>
-      <sparkle:shortVersionString>1.12.0-beta (94)</sparkle:shortVersionString>
+      <title>Version 1.13.0-beta (95)</title>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>1.13.0-beta (95)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.12.0-beta (94)</h2><ul><li>A new photo starts blank.</li><li>Colour, crop, style, effects, caption, frame, and logo stay on the photo where you made them.</li><li>Opening, dropping, or moving to the next photo does not bring that edit along.</li></ul>
+<h2>Trails RG Studio 1.13.0-beta (95)</h2><ul><li>Command-Delete still asks before a photo goes to the Trash.</li><li>Press Enter to confirm. Escape leaves the photo where it is.</li></ul>
 ]]></description>
-      <pubDate>Sat, 24 Oct 2026 11:44:15 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 11:21:58 +0000</pubDate>
       <enclosure
-        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.12.0-beta-macos.zip"
-        sparkle:edSignature="DpuDWyUc7HoZWe0L2SVv/JnwFoIeDzydHrcGrTKy+2aIseD3o8J8jZqZa5DF6K55vvd6+pPR/BxQZpBrL0Z7Cw=="
+        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.13.0-beta-macos.zip"
+        sparkle:edSignature="IbFjU/sGBwJnz57gb/PzB/a1o7r0qNIn6lhx3Ys1S7g8sbeTu7hyrXD/93OJXPoV//8Ut6jcl4ZX9FXOUtwKAw=="
         sparkle:os="macos"
-        length="96845230"
+        length="96848044"
         type="application/octet-stream" />
     </item>
   </channel>
