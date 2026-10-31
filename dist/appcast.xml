@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.20.0-beta (102)</title>
-      <sparkle:version>102</sparkle:version>
-      <sparkle:shortVersionString>1.20.0-beta (102)</sparkle:shortVersionString>
+      <title>Version 1.21.0-beta (103)</title>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>1.21.0-beta (103)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.20.0-beta</h2><p>Build 102</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.21.0-beta</h2><p>Build 103</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
 ]]></description>
-      <pubDate>Sat, 31 Oct 2026 08:07:06 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 08:28:21 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.20.0-beta-macos.zip"
-        sparkle:edSignature="vxDTbMhAYALLrlojfN31m9vNsKQBtBnMTHO3nmaHX7XHLsLmIYlmjFQ1XEp0xhyXCmzkNUf5yZXBV3MBL3TpBQ=="
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.21.0-beta-macos.zip"
+        sparkle:edSignature="3Oq+prY7UIlHJgA7xbDfmRT+DKYuTxMCVXvhz0QB8yculhfb5hekqFLJyI4BWj8r6g14HT1g9VJKfpUqZi0nCQ=="
         sparkle:os="macos"
-        length="96899432"
+        length="96905900"
         type="application/octet-stream" />
     </item>
   </channel>
