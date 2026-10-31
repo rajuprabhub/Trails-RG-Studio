@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.22.0-beta (104)</title>
-      <sparkle:version>104</sparkle:version>
-      <sparkle:shortVersionString>1.22.0-beta (104)</sparkle:shortVersionString>
+      <title>Version 1.23.0-beta (105)</title>
+      <sparkle:version>105</sparkle:version>
+      <sparkle:shortVersionString>1.23.0-beta (105)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.22.0-beta</h2><p>Build 104</p><ul><li>Clips include vignette so zebra marks match the graded preview</li><li>Hold original only hides marks; they return when you release</li><li>Clip thresholds sit closer to the histogram clip bins</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a></li></ul>
+<h2>Trails RG Studio 1.23.0-beta</h2><p>Build 105</p><ul><li>Find duplicates explains why each file is kept and why each extra is suggested to archive</li><li>Gallery badges: Newer copy, Renamed copy, Deeper folder</li><li>Nothing moves until you confirm Archive</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a></li></ul>
 ]]></description>
-      <pubDate>Sat, 31 Oct 2026 08:32:05 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 08:39:17 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.22.0-beta-macos.zip"
-        sparkle:edSignature="0fXCM3+W1wjzdpzPcwWjrNRk1oR/2SFv9EQcVw/MXTMNcIfpJyWZr40hHyIxxMIYLgolnnKjVyW5WnmqbbbiBA=="
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.23.0-beta-macos.zip"
+        sparkle:edSignature="x2r3tAc44eDRFFRhT5/N2ZccYYtRDJ2YyzPKP3VJ6x0aGR/W7Ux2M7VYsjWPEcBV9nX2YI4i8znuCkg/HkMYDw=="
         sparkle:os="macos"
-        length="96906931"
+        length="96916944"
         type="application/octet-stream" />
     </item>
   </channel>
