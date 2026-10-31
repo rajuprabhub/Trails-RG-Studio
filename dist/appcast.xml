@@ -9,11 +9,11 @@
       <sparkle:version>99</sparkle:version>
       <sparkle:shortVersionString>1.17.0-beta (99)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.17.0-beta</h2><p>Build 99</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.17.0-beta</h2><p>Build 99</p><ul><li>Adjust shows every Light, Color Basics, HSL, FX, and Curve control as a stacked slider</li><li>Color opens Temperature, Tint, Vibrance, and Saturation first, with advanced tools in a list</li><li>Hold original, Clips, and Reset stay pinned under the panel</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
 ]]></description>
-      <pubDate>Sat, 31 Oct 2026 06:12:47 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 06:20:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/rajuprabhub/Trails-RG-Studio/raw/main/dist/trails-rg-studio-1.17.0-beta-macos.zip"
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.17.0-beta-macos.zip"
         sparkle:edSignature="quMGh5nsN6jVov64/B8zOkYaD666nhbU6OYgFAXkkPkiczg8hWmpQdii4XazIUiihnEYGFRZzsiyVWxIfxbLCQ=="
         sparkle:os="macos"
         length="96892821"
