@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.23.0-beta (105)</title>
-      <sparkle:version>105</sparkle:version>
-      <sparkle:shortVersionString>1.23.0-beta (105)</sparkle:shortVersionString>
+      <title>Version 1.24.0-beta (106)</title>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>1.24.0-beta (106)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.23.0-beta</h2><p>Build 105</p><ul><li>Find duplicates explains why each file is kept and why each extra is suggested to archive</li><li>Gallery badges: Newer copy, Renamed copy, Deeper folder</li><li>Nothing moves until you confirm Archive</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a></li></ul>
+<h2>Trails RG Studio 1.24.0-beta</h2><p>Build 106</p><ul><li>Load a .cube LUT under Adjust → Effects</li><li>Luminance and Color noise reduction</li><li>Export shows an estimated file size</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a></li></ul>
 ]]></description>
-      <pubDate>Sat, 31 Oct 2026 08:39:17 +0000</pubDate>
+      <pubDate>Sat, 31 Oct 2026 09:05:17 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.23.0-beta-macos.zip"
-        sparkle:edSignature="x2r3tAc44eDRFFRhT5/N2ZccYYtRDJ2YyzPKP3VJ6x0aGR/W7Ux2M7VYsjWPEcBV9nX2YI4i8znuCkg/HkMYDw=="
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.24.0-beta-macos.zip"
+        sparkle:edSignature="tyyWR13ElddeQvPI01M8PWjZ4tsM+EzcKLOLmHlr3R2Vm34Hkp1ghgpSVQGXllJCfLqzVsL90kO4Pmhe4S7HCg=="
         sparkle:os="macos"
-        length="96916944"
+        length="96939306"
         type="application/octet-stream" />
     </item>
   </channel>
