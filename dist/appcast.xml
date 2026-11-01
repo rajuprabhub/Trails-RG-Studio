@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.44.0 (126)</title>
-      <sparkle:version>126</sparkle:version>
-      <sparkle:shortVersionString>1.44.0 (126)</sparkle:shortVersionString>
+      <title>Version 1.45.0 (127)</title>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>1.45.0 (127)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.44.0</h2><p>Build 126</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
+<h2>Trails RG Studio 1.45.0</h2><p>Build 127</p><ul><li>Bug fixes and improvements</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a> for full notes</li></ul>
 ]]></description>
-      <pubDate>Sun, 01 Nov 2026 01:23:01 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 01:26:47 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.44.0-macos.zip"
-        sparkle:edSignature="Aw1yva1+Jrn20Jb63Mbz3qX4ho0wZNVQX/Q9wect6Z1jt9YPxHegMuQTP19VwDZn9uU5RwxTChis/xnCjVp1BA=="
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.45.0-macos.zip"
+        sparkle:edSignature="xFwlPtq4ojLRwgdWZYT26YF2a2BPHpnArmZM1Jt02odmY2/fGMoNEAVwRMrMxfkqhSGOsky7jkSpTIc0ODhYBg=="
         sparkle:os="macos"
-        length="97247429"
+        length="97255537"
         type="application/octet-stream" />
     </item>
   </channel>
