@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.46.0 (128)</title>
-      <sparkle:version>128</sparkle:version>
-      <sparkle:shortVersionString>1.46.0 (128)</sparkle:shortVersionString>
+      <title>Version 1.47.0 (129)</title>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>1.47.0 (129)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Trails RG Studio 1.46.0</h2><p>Build 128 — Reliability recovery</p><ul><li>Restore unsaved recipes on reopen with Retry save</li><li>Library companion paste/rename/move recovery panel</li><li>Safer sidecar replace and collision-safe moves</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a></li></ul>
+<h2>Trails RG Studio 1.47.0</h2><p>Build 129 — Identify, export presets, projects</p><ul><li>Identify wildlife species suggestions via iNaturalist</li><li>Named export presets and selected-photo export</li><li>Panorama and Collage project Save / Save As / Open</li><li>Find-unusable assessment foundation; adaptive layouts; Develop color fixes</li><li>See <a href="https://www.trailsrg.com/apps/studio/versions">trailsrg.com/apps/studio/versions</a></li></ul>
 ]]></description>
-      <pubDate>Sun, 08 Nov 2026 03:49:13 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 15:28:02 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.46.0-macos.zip"
-        sparkle:edSignature="lNEmB6hfNvtV+WJRYT1oUZUudVkoDPbBVEyt/j3Ts1D1BN3cQ9jZxnD164Ch7V4MlAdpxy05ID/lCxoKkKmtCQ=="
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.47.0-macos.zip"
+        sparkle:edSignature="FW1r7wiNSUUQWF6y+s9UNxp5gOyBnbPo5F/oW/HFBrLFciYV2KtoIPB5GfCsgp8+iCKGHk25f4nTLf2DxEl0Aw=="
         sparkle:os="macos"
-        length="97325755"
+        length="97672615"
         type="application/octet-stream" />
     </item>
   </channel>
