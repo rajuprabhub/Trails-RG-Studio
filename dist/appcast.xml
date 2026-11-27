@@ -5,18 +5,18 @@
     <description>macOS updates for Trails RG Studio (Sparkle)</description>
     <language>en</language>
     <item>
-      <title>Version 1.50.13 (145)</title>
-      <sparkle:version>145</sparkle:version>
-      <sparkle:shortVersionString>1.50.13 (145)</sparkle:shortVersionString>
+      <title>Version 1.50.14 (146)</title>
+      <sparkle:version>146</sparkle:version>
+      <sparkle:shortVersionString>1.50.14 (146)</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>External-drive TIFF export fix</h2><ul><li>Checks free space on the actual selected TIFF destination.</li><li>Correctly measures external and removable drives instead of reporting 0 B.</li><li>Handles new output folders and unknown capacity readings safely.</li></ul>
+<h2>RAW to TIFF conversion fix</h2><ul><li>Correctly validates large Nikon TIFF files whose metadata directory is stored near the end of the file.</li><li>Accepts valid RGB TIFF output with associated alpha.</li><li>Shows the actual native reason when a batch item fails.</li><li>Includes corrected external-drive free-space detection.</li></ul>
 ]]></description>
-      <pubDate>Fri, 27 Nov 2026 13:04:36 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 13:36:46 +0000</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.50.13-macos.zip"
-        sparkle:edSignature="z89OEy0gpQoZPH188/iGQU9sgRWkmClJCl5B7VPt4gB06fscdGmSfVXHp0GJc1tal5fDh4nJJEg1tyHmJ4XtCw=="
+        url="https://raw.githubusercontent.com/rajuprabhub/Trails-RG-Studio/main/dist/trails-rg-studio-1.50.14-macos.zip"
+        sparkle:edSignature="lZP3JM6mWBQ/lfvcU6yNYPvPcaATj1reKjFQoH5oe+0+jGPifk1tarbADCZn4v/Vjez0GVN/oYliN5GguYH0Bg=="
         sparkle:os="macos"
-        length="96252975"
+        length="96250303"
         type="application/octet-stream" />
     </item>
   </channel>
